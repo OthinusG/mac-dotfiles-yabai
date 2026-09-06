@@ -144,13 +144,23 @@ wifi.sh
 
 ---
 
-## 6. Apple Music Controls
+## 6. Music Controls
 
 The default player is:
 
 ```text
 Apple Music
 ```
+
+The configuration also retains support code for:
+
+```text
+Spotify
+MPD / rmpc
+YouTube Music
+```
+
+They are not enabled by default, but can be enabled manually.
 
 The status bar displays:
 
@@ -165,16 +175,6 @@ Controls:
 | Left Click | Play / Pause |
 | Right Click | Next |
 | `Ctrl + Right Click` | Previous |
-
-The configuration also retains support code for:
-
-```text
-Spotify
-MPD / rmpc
-YouTube Music
-```
-
-They are not enabled by default, but can be enabled manually.
 
 ---
 
