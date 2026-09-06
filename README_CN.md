@@ -129,13 +129,22 @@ helpers/input_source/input_source.c
 sketchybar右侧wifi图标默认显示为clash verge（仅支持clash verge，非mihomo内核特性）当前节点的连通性，断联将红色断开显示。也保留了原来wifi链接与否的逻辑，可将 `/.config/sketchybar/plugins/wifi_old.sh`改名成wifi.sh即可。
 
 ---
-## 6. Apple Music 控制
+## 6. Music 控制
 
 当前默认播放器：
 
 ```text
 Apple Music
 ```
+配置中同时保留：
+
+```text
+Spotify
+MPD / rmpc
+YouTube Music
+```
+
+的支持代码，但默认不启用，可自行启用。
 
 状态栏显示：
 
@@ -150,16 +159,6 @@ Track • Artist
 | Left Click | Play / Pause |
 | Right Click | Next |
 | `Ctrl + Right Click` | Previous |
-
-配置中同时保留：
-
-```text
-Spotify
-MPD / rmpc
-YouTube Music
-```
-
-的支持代码，但默认不启用，可自行启用。
 
 ---
 
