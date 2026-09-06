@@ -1,0 +1,21 @@
+{
+    "colorscheme": "tokyonight",
+    "tabsize": 4,
+    "tabstospaces": true,
+    "autoindent": true,
+    "autoclose": true,
+    "cursorline": true,
+    "ruler": true,
+    "rmtrailingws": true,
+    "mouse": true,
+	"paste": true,
+    "scrollbar": true,
+	"softwrap":true,
+	"wordwrap":true,
+	"rawmouse": true,
+    "statusformatl": "$(filename) $(modified)($(line),$(col)) $(status.job) | $(opt:filetype) | $(opt:fileformat)",
+    "statusformatr": "$(bind:ToggleKeyMenu) Menu ",
+    "sucmd": "sudo",
+	"syntax": true,
+	"tabstospaces": true
+}

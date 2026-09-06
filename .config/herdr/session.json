@@ -1,0 +1,281 @@
+{
+  "version": 3,
+  "workspaces": [
+    {
+      "id": "w4",
+      "custom_name": null,
+      "identity_cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGO2DMOF",
+      "public_pane_numbers": {
+        "1": 1,
+        "3": 4,
+        "2": 3
+      },
+      "next_public_pane_number": 5,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": "codex",
+          "layout": {
+            "Split": {
+              "direction": "Vertical",
+              "ratio": 0.16981132,
+              "first": {
+                "Pane": 1
+              },
+              "second": {
+                "Split": {
+                  "direction": "Horizontal",
+                  "ratio": 0.5,
+                  "first": {
+                    "Pane": 2
+                  },
+                  "second": {
+                    "Pane": 3
+                  }
+                }
+              }
+            }
+          },
+          "panes": {
+            "1": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGO2DMOF"
+            },
+            "2": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGO2DMOF"
+            },
+            "3": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGO2DMOF"
+            }
+          },
+          "zoomed": false,
+          "focused": 1,
+          "root_pane": 1
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w5",
+      "custom_name": null,
+      "identity_cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGOSPANI",
+      "public_pane_numbers": {
+        "4": 2,
+        "5": 3
+      },
+      "next_public_pane_number": 6,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 3,
+      "tabs": [
+        {
+          "custom_name": "codex&review",
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.5,
+              "first": {
+                "Pane": 4
+              },
+              "second": {
+                "Pane": 5
+              }
+            }
+          },
+          "panes": {
+            "5": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGOSPANI"
+            },
+            "4": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGOSPANI"
+            }
+          },
+          "zoomed": false,
+          "focused": 4,
+          "root_pane": 4
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w8",
+      "custom_name": null,
+      "identity_cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGO+2dCN membrane",
+      "public_pane_numbers": {
+        "7": 2,
+        "6": 1
+      },
+      "next_public_pane_number": 3,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.5,
+              "first": {
+                "Pane": 6
+              },
+              "second": {
+                "Pane": 7
+              }
+            }
+          },
+          "panes": {
+            "6": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGO+2dCN membrane"
+            },
+            "7": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/hGO+2dCN membrane"
+            }
+          },
+          "zoomed": false,
+          "focused": 6,
+          "root_pane": 6
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w6",
+      "custom_name": null,
+      "identity_cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/phD/thesis",
+      "public_pane_numbers": {
+        "8": 1,
+        "9": 2
+      },
+      "next_public_pane_number": 5,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 4,
+      "tabs": [
+        {
+          "custom_name": "agent",
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.5,
+              "first": {
+                "Pane": 8
+              },
+              "second": {
+                "Pane": 9
+              }
+            }
+          },
+          "panes": {
+            "9": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/phD/thesis"
+            },
+            "8": {
+              "cwd": "/Users/wqin/Library/Mobile Documents/com~apple~CloudDocs/my_manuscript/phD/thesis"
+            }
+          },
+          "zoomed": false,
+          "focused": 9,
+          "root_pane": 8
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w7",
+      "custom_name": null,
+      "identity_cwd": "/Users/wqin/workplace/bang",
+      "public_pane_numbers": {
+        "11": 2,
+        "10": 1
+      },
+      "next_public_pane_number": 3,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": "agent",
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.5,
+              "first": {
+                "Pane": 10
+              },
+              "second": {
+                "Pane": 11
+              }
+            }
+          },
+          "panes": {
+            "10": {
+              "cwd": "/Users/wqin/workplace/bang"
+            },
+            "11": {
+              "cwd": "/Users/wqin/workplace/bang"
+            }
+          },
+          "zoomed": false,
+          "focused": 11,
+          "root_pane": 10
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w9",
+      "custom_name": null,
+      "identity_cwd": "/Users/wqin/.config/sketchybar",
+      "public_pane_numbers": {
+        "13": 2,
+        "12": 1
+      },
+      "next_public_pane_number": 3,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.5,
+              "first": {
+                "Pane": 12
+              },
+              "second": {
+                "Pane": 13
+              }
+            }
+          },
+          "panes": {
+            "13": {
+              "cwd": "/Users/wqin/.config/sketchybar"
+            },
+            "12": {
+              "cwd": "/Users/wqin/.config/sketchybar"
+            }
+          },
+          "zoomed": false,
+          "focused": 12,
+          "root_pane": 12
+        }
+      ],
+      "active_tab": 0
+    }
+  ],
+  "active": 5,
+  "selected": 5,
+  "sidebar_width": 26,
+  "sidebar_section_split": 0.21153846,
+  "collapsed_space_keys": []
+}
