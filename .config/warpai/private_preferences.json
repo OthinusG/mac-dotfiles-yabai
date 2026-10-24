@@ -1,0 +1,17 @@
+{
+  "prefs": {
+    "AIRequestQuotaInfoSetting": "{\"cycle_history\":[]}",
+    "NSWindow Frame NSNavPanelAutosaveName": "965 8 947 1040 0 0 1920 1080 ",
+    "AutosuggestionAcceptedCount": "2",
+    "PluginInstallChipDismissedMap": "{\"codex\":true}",
+    "EnteredAgentModeNumTimes": "10",
+    "TelemetryEnabled": "true",
+    "CloudConversationStorageEnabled": "true",
+    "MCPExecutionPath": "\"/Users/wqin/.nexion/bin:/Users/wqin/.qoder-cn/entry:/opt/anaconda3/bin:/Users/wqin/.local/bin/:/opt/homebrew/opt/curl/bin:/opt/local/bin:/opt/local/sbin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/wqin/.local/bin:/opt/anaconda3/bin:/opt/homebrew/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Applications/Warpai.app/Contents/Resources/bin\"",
+    "NSNavPanelExpandedSizeForOpenMode": "{947, 1040}",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"WarpAI\"},{\"Hint\":\"BlockSelect\"},{\"Hint\":\"CreateBlock\"},{\"Action\":\"SplitPane\"},{\"Hint\":\"BlockAction\"},{\"Action\":\"ThemePicker\"}]",
+    "ExperimentId": "62581865-affc-4b92-9d4f-f6c01ea84e77",
+    "AppAddedAsLoginItem": "false",
+    "CrashReportingEnabled": "true"
+  }
+}

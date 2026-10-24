@@ -1,0 +1,11 @@
+{
+  "source": "dee92fbb9917d33bf07c6550c78f68186460fb35",
+  "release": "v1.7.7",
+  "repository": "OthinusG/warpai",
+  "target": "aarch64-apple-darwin",
+  "version": "warpai-companion 5.5.0 protocol 1",
+  "profile": "release",
+  "sha256": "d6ca563a0f647e9010edd05b16483e5a2d03971c5c76c9f8738d8e86c6ee0c31",
+  "runtime_directory": "companion-runtime-b6e57549cf78335b0a48705e42b5bfaa6e4a27919c27f2959edc9428b41a6102",
+  "git_source": "https://codeload.github.com/git/git/tar.gz/a018953688f1b10bddf91bff8747068f5f4746a4"
+}

@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
-sudo yabai --load-sa
-yabai -m signal --add event=dock_did_restart action="sudo yabai --load-sa"
+#sudo yabai --load-sa
+#yabai -m signal --add event=dock_did_restart action="sudo yabai --load-sa"
 
 yabai -m config external_bar               all:24:0       \
 	            menubar_opacity            0.0            \
@@ -14,7 +14,7 @@ yabai -m config external_bar               all:24:0       \
                 window_opacity_duration    0.2            \
                 active_window_opacity      1.0            \
                 normal_window_opacity      0.8            \
-                window_animation_duration  0.45           \
+                window_animation_duration  0.4            \
                 window_animation_easing    ease_out_quint \
                 insert_feedback_color      0xff9dd274     \
                 split_ratio                0.50           \
@@ -36,7 +36,9 @@ yabai -m rule --add label="Finder" app="^Finder$" title="(Co(py|nnect)|Move|Info
 yabai -m rule --add label="Safari" app="^Safari$" title="^(General|(Tab|Password|Website|Extension)s|AutoFill|Se(arch|curity)|Privacy|Advance)$" manage=off
 yabai -m rule --add label="About This Mac" app="System Information" title="About This Mac" manage=off
 yabai -m rule --add label="Select file to save to" app="^Inkscape$" title="Select file to save to" manage=off
-
+yabai -m rule --add label="Origin dialogs" app="^OriginPro 9\.1 64Bit$" title!="^OriginPro 9\.1 64-bit - " manage=off
+yabai -m rule --add label="origin" app="^OriginPro$" manage=off
+yabai -m rule --add label="Origin dialogs" app="^Origin 2021b$" title!="^Origin 2021b - " manage=off
 yabai -m config layout bsp
 
 echo "yabai configuration loaded.."

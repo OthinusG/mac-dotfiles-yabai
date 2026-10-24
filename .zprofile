@@ -1,8 +1,13 @@
+# >>> AI api-key >>>
+if [ -f ~/.ai_keys ]; then
+    source ~/.ai_keys
+fi
+# <<< AI ai_key <<<
+
 # Setting PATH for Python 3.12
-# The original version is saved in .zprofile.pysave
 export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:${PATH}"
 export PATH="/opt/homebrew/anaconda3/bin:$PATH"
-export PATH="/Users/wqin/anaconda3/bin:$PATH"
+export PATH="/opt/anaconda3/bin:$PATH"
 export CONDA_CHANGEPS1=false
 
 
@@ -29,3 +34,8 @@ PATH=~/.local/bin:$PATH
 	export CPPFLAGS="-I/opt/homebrew/opt/curl/include"
 	PATH=~/.local/bin/:$PATH
 # <<< curl initialize <<<
+
+# QODERCN_DISPATCHER_PATH v1
+path=("$HOME/.qoder-cn/entry" ${path:#"$HOME/.qoder-cn/entry"})
+export PATH
+# END QODERCN_DISPATCHER_PATH v1

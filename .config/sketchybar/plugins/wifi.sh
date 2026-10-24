@@ -1,6 +1,9 @@
 #!/bin/bash
 
-CLASH_SOCKET="${CLASH_SOCKET:-/tmp/verge/verge-mihomo.sock}"
+if [[ -z "$CLASH_SOCKET" ]]; then
+  CLASH_SOCKET="/var/run/clash-verge-service/users/$(id -u)/verge-mihomo.sock"
+  [[ -S "$CLASH_SOCKET" ]] || CLASH_SOCKET="/tmp/verge/verge-mihomo.sock"
+fi
 CLASH_TEST_URL="${CLASH_TEST_URL:-https://www.gstatic.com/generate_204}"
 CONNECTED_ICON="󰖩"
 DISCONNECTED_ICON="󰖪"
